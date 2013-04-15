@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+  <plugin name="ChildBrowser" value="com.phonegap.plugins.childBrowser.ChildBrowser"/>
+</plugins>

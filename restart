@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ant debug && ant installd && adb shell am start -n com.btford.hitcharide/com.btford.hitcharide.HitchARide
+
